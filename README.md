@@ -3,6 +3,7 @@ Devcamp Products Webサイト(Next.js版)
 
 当Webサイトのリポジトリです。Next.jsのSSGによって `out/` ディレクトリ配下に静的ファイルを生成し、ドキュメントルートとします。
 
+![workflow](https://github.com/cm-devcamp/devcamp_app2_prod/actions/workflows/eslint.yml/badge.svg)
 ![workflow](https://github.com/cm-devcamp/devcamp_app2_prod/actions/workflows/nextjs.yml/badge.svg)
 
 ### 利用ライブラリ
