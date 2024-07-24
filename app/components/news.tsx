@@ -1,5 +1,6 @@
-import Link from 'next/link'
+'use client'
 
+import Link from 'next/link'
 import newsData from '../../devcamp_news.json';
 
 interface News {
