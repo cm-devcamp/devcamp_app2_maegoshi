@@ -24,7 +24,7 @@ export default function Page() {
         {productList.map((product) =>
           <div className="flex" key={product.id}>
               <div className="grow p-6">
-                <Link href="#">{product.name}</Link>
+              <Link href={`/products/${product.id}`}>{product.name}</Link>
               </div>
               <div className="p-6">
                 {product.datems}
